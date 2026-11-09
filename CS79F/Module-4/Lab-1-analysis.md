@@ -2,6 +2,8 @@
 
 Name: Daz Arnaud    Date: November 8, 2026
 
+GitHub portfolio repository URL: https://github.com/darnaud-ops/new/tree/claude/claude-md-docs-0a6ucv/CS79F
+
 Fill this in as you work. Sections marked PREDICT must be written before you run the step.
 
 ---
