@@ -4,7 +4,7 @@ Name: Daz Arnaud
 
 Organization: Santa Monica College tutoring centers
 
-GitHub portfolio repository URL: Add after publishing.
+GitHub portfolio repository URL: https://github.com/darnaud-ops/new/tree/claude/claude-md-docs-0a6ucv/CS79F
 
 Date started: November 4, 2026
 
